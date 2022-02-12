@@ -1,5 +1,5 @@
 {
-    "updated":{"version": 23, "title": "Your app has been updated to version 23!", "content":"Updates include:\n•BugFixes\n•New literature including Just For Today, Who Me?, and A Newcomer Asks.\n•A support us section has been added at the bottom of the homepage, please feel free to read the message posted there.", "appleLink":"", "androidLink":""},
+    "updated":{"version": 23, "title": "Your app has been updated to version 23!", "content":"Updates include:\n•Bug Fixes\n\n•New literature including Just For Today, Who Me?, and A Newcomer Asks.\n\n•A support us section has been added at the bottom of the homepage, please feel free to read the message posted there.", "appleLink":"", "androidLink":""},
     "needsUpdate":{"version": 22, "title": "A new version is available!", "content":"Clicking the button below will take you to the app store where you can manually update the app by clicking 'update'.\n\nUpdates include bug fixes, updated literature, and a new support us section.\n\nIt should only take a few seconds, then you can get back to the literature :)", "appleLink":"https://apps.apple.com/us/app/everything-aa/id1565768051", "androidLink":"https://play.google.com/store/apps/details?id=com.bigbook3"},
     "message":{"messageId": 2,"title":"A Message","content":"Testing","appleLink":"","androidLink":"", "dontDisplay": false}
 }
